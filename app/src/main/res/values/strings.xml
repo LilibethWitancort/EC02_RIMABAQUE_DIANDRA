@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AC2_DIANDRA_RIMABAQUE</string>
+    <string name="r_registro">REGISTRO</string>
+    <string name="r_formulario">FORMULARIO</string>
+    <string name="r_listado">LISTADO</string>
+    <string name="r_1_marque_sus_habilidades">1. Marque sus habilidades.</string>
+    <string name="r_cuestionario">CUESTIONARIO</string>
+    <string name="r_autoconocimiento">Autoconocimiento</string>
+    <string name="r_empat_a">Empatía</string>
+    <string name="t_comunicaci_n_asertiva">Comunicación asertiva</string>
+    <string name="r_toma_de_decisiones">Toma de decisiones</string>
+    <string name="r_pensamiento_cr_tico">Pensamiento crítico</string>
+    <string name="r_ninguno">Ninguno</string>
+    <string name="r_cuan_significativo_es_tu_trabajo">2. ¿Cuán significativo es tu trabajo?</string>
+    <string name="r_mucho">Mucho</string>
+    <string name="rmasomenos">Más o menos</string>
+    <string name="r_poco">Poco</string>
+    <string name="r_3_qu_tan_bien_te_pagan_en_el_trabajo_que_haces">3. ¿Qué tan bien te pagan en el trabajo que haces?</string>
+    <string name="r_bien">Bien</string>
+    <string name="r_regular">Regular</string>
+    <string name="r_mal">Mal</string>
+    <string name="r_4_trabajas_bajo_presi_n">4. ¿Trabajas bajo presión?</string>
+    <string name="r_s">Sí</string>
+    <string name="r_no">No</string>
+    <string name="r_5_tienes_oportunidad_de_crecimiento_en_tu_trabajo">5. ¿Tienes oportunidad de crecimiento en tu trabajo?</string>
+    <string name="r_resolver">Resolver</string>
+</resources>
